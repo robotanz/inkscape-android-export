@@ -7,6 +7,7 @@ Install
 --------
 
 Download `android_export.inx` and `android_export.py` and copy both files to your `$HOME/.config/inkscape/extensions` folder. A restart of Inkscape is required.
+For Windows users: copy the files to `Program Files\Inkscape\share\extensions`.
 
 Usage
 --------
